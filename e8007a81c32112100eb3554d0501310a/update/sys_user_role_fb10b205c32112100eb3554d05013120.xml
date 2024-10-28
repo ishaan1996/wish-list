@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_wishlist.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_snc_wishlist.user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 05:36:26</sys_created_on>
+        <sys_id>fb10b205c32112100eb3554d05013120</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_wishlist.user</sys_name>
+        <sys_package display_value="Wishlist" source="x_snc_wishlist">e8007a81c32112100eb3554d0501310a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">e8007a81c32112100eb3554d0501310a</sys_scope>
+        <sys_update_name>sys_user_role_fb10b205c32112100eb3554d05013120</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 05:36:26</sys_updated_on>
+    </sys_user_role>
+</record_update>
